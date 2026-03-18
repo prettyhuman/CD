@@ -1,0 +1,11 @@
+source,target
+HM_Temp_C,Bath_Temp_End_C
+HM_P_pct,Steel_P_End_pct
+Lime_Add_kgpt,Slag_Basicity
+Lance_Height_m,Offgas_CO_pct
+Lance_Height_m,Offgas_CO2_pct
+O2_Flow_Nm3min,Blow_Time_min
+O2_Flow_Nm3min,Offgas_CO_pct
+O2_Flow_Nm3min,Offgas_CO2_pct
+Scrap_Ratio,Bath_Temp_End_C
+Blow_Time_min,Bath_Temp_End_C

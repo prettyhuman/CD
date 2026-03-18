@@ -1,0 +1,7 @@
+如果出现 ModuleNotFoundError: topblown_causal_diag
+请在项目根目录执行：
+
+Linux/macOS:
+  export PYTHONPATH=$(pwd)/src
+Windows PowerShell:
+  $env:PYTHONPATH = (Resolve-Path .\src)
